@@ -1,0 +1,7 @@
+server:
+  error:
+    # those are only set for debugging purposes!
+    include-binding-errors: always
+    include-exception: true
+    include-message: always
+    include-stacktrace: always
